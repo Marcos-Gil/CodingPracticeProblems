@@ -16,5 +16,3 @@ class Solution:
             del nums[indexToRemove[j]]
 
         return length - len(indexToRemove) # return original length - amount of numbers we removed
-
-asda
