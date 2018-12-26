@@ -20,4 +20,3 @@ class Solution:
             del nums[indexToDelete[j]]
 
         return currentLen
-asdsa
