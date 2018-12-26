@@ -24,6 +24,4 @@ class Solution:
             else:
                 break
 
-        return common
-
-as
+        return
