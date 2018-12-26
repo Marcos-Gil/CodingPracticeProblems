@@ -13,3 +13,5 @@ class Solution:
             return (allNum[int((len(allNum)/2) - 1)] + allNum[int((len(allNum))/2)]) / 2.0
         else: # return middle index
             return allNum[int(len(allNum)/2)]
+
+As
