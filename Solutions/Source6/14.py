@@ -25,3 +25,5 @@ class Solution:
                 break
 
         return common
+
+as
