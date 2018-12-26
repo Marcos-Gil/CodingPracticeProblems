@@ -27,6 +27,7 @@ class Solution:
             right -= 1 # bring in both pointers by 1 index
             left += 1
 
+
 # First answer
 #
 # answers = {}
