@@ -6,4 +6,3 @@ class Solution:
         """
         # Using splice to reverse
         return str(x) == str(x)[::-1]
-a
