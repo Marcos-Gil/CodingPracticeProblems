@@ -1,0 +1,8 @@
+Sites with some potential problems to work on:
+
+https://projecteuler.net/about
+https://leetcode.com/problemset/all/
+https://www.hackerrank.com/dashboard
+CareerCup
+https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently
+https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems.
