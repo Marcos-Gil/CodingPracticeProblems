@@ -51,6 +51,7 @@ class Solution:
 
         return pointer
 
+
 # Iterate both at same time until you reach the end of both
 # while True:
 #     if l1 and l2:
