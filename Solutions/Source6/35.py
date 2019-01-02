@@ -14,5 +14,3 @@ class Solution:
         for i in range(0, len(nums)): # iterate through list, return i if we find target or element larger
             if nums[i] == target or nums[i] > target:
                 return i
-
-asds
