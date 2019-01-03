@@ -17,3 +17,4 @@ class Solution:
                 break
 
         return len(s[index])
+assa
