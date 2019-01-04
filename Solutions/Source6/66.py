@@ -14,4 +14,3 @@ class Solution:
         for i in range(0, len(list)): # iterate through string values, and append integer version into final list and return
             final.append(int(list[i]))
         return final
-as
