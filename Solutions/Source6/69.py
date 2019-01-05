@@ -5,3 +5,4 @@ class Solution:
         :rtype: int
         """
         return int(x**(0.5))
+as
