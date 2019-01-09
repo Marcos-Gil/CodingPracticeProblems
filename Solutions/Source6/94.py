@@ -28,4 +28,3 @@ class Solution:
         traverse(root, values)
 
         return values
-ads
