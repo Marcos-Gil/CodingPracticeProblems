@@ -31,3 +31,4 @@ class Solution:
             stack.append(tree2.left)
 
         return True
+asdas
