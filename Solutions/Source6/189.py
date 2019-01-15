@@ -49,4 +49,3 @@ class Solution:
 #                     break
 #
 #             start += 1 # increment start to next index, so we can handle all index spaced k apart from here
-asd
