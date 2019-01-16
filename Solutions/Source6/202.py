@@ -24,4 +24,3 @@ class Solution(object):
                 num = result
                 result = 0
                 continue
-asd
