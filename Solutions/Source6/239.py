@@ -32,8 +32,6 @@ class Solution:
 
         return maxPerWindow
 
-asd
-
 # Without a deque
 # if len(nums) < 2 and len(nums) != 0:
 #     return [max(nums)]
