@@ -19,7 +19,6 @@ class Solution:
 
         return int(tempStr)
 
-asd
 # O(1) time and space complexity solution based on: https://en.wikipedia.org/wiki/Digital_root#Congruence_formula
 #
 # return 1 + (num - 1) % 9;
