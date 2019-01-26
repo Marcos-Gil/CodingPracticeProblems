@@ -10,7 +10,7 @@ class Solution:
             if nums[i] != 0: # if number is not a zero, we swap current element with the last zero we saw
                 nums[lastZeroIndex], nums[i] = nums[i], nums[lastZeroIndex]
                 lastZeroIndex += 1
-a
+                
 # First solution, ended up being extremely inefficient
 #
 # zeroCount = 0
