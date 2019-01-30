@@ -33,7 +33,6 @@ class Solution:
             return biggest
 
         return thirdBiggest
-ase
 # Similar solution, using none and including that in comparions, no dictionary required
 #
 # first, second, third = None, None, None
