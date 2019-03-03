@@ -21,4 +21,3 @@ class Solution:
             streakOfL = 0
 
         return True
-asdgi
