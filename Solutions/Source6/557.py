@@ -12,4 +12,3 @@ class Solution:
         string = " ".join(string)
 
         return string
-asd
